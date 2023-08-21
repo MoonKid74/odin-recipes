@@ -10,6 +10,7 @@ h1 {
     color: yellow;
     background-color: rgb(2, 7, 82);
     text-align: center;
+    padding: 15px;
 }
 
 p,
@@ -17,3 +18,4 @@ ul,
 ol {
     font-size: 23px;
 }
+

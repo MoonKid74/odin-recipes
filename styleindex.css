@@ -1,0 +1,10 @@
+h1{
+    display: block;
+    text-align: center;
+    background-color: aqua;
+}
+li{
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
