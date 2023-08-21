@@ -5,17 +5,44 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-
 h1 {
     color: yellow;
     background-color: rgb(2, 7, 82);
     text-align: center;
     padding: 15px;
+    margin: 0;
 }
 
 p,
 ul,
 ol {
-    font-size: 23px;
+    font-size: 25px;
 }
 
+.desc-container {
+    background-color: white;
+    display: block;
+    margin: 0;
+    padding: 0px;
+}
+.desc{
+    background-color: black;
+    color: white;
+    display: block;
+    margin: 0;
+    padding: 35px;
+}
+.ingr {
+    display: block;
+    margin: 0;
+    padding: 35px;
+    background-color: black;
+    color: red;
+}
+.list {
+    display: block;
+    margin: 0;
+    padding: 35px;
+    background-color: black;
+    color: white;
+}
